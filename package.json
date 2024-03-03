@@ -1,5 +1,5 @@
 {
-  "name": "pm2-config",
+  "name": "@onesoft-sudo/pm2-config",
   "version": "0.0.7",
   "description": "Autocomplete and documentation for your JSON, YAML and Javascript pm2 configs 🚀",
   "author": "Edosa Kelvin <edosakelvin@gmail.com>",
@@ -10,5 +10,6 @@
     "config"
   ],
   "repository": "https://github.com/edosssa/pm2-config",
-  "license": "MIT"
+  "license": "MIT",
+  "types": "pm2config.d.ts"
 }
